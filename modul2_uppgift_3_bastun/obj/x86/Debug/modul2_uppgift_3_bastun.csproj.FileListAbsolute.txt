@@ -1,0 +1,6 @@
+/Users/fransengstrom/Projects/modul2_uppgift_3_bastun/modul2_uppgift_3_bastun/obj/x86/Debug/modul2_uppgift_3_bastun.csprojAssemblyReference.cache
+/Users/fransengstrom/Projects/modul2_uppgift_3_bastun/modul2_uppgift_3_bastun/obj/x86/Debug/modul2_uppgift_3_bastun.csproj.CoreCompileInputs.cache
+/Users/fransengstrom/Projects/modul2_uppgift_3_bastun/modul2_uppgift_3_bastun/bin/Debug/modul2_uppgift_3_bastun.exe
+/Users/fransengstrom/Projects/modul2_uppgift_3_bastun/modul2_uppgift_3_bastun/bin/Debug/modul2_uppgift_3_bastun.pdb
+/Users/fransengstrom/Projects/modul2_uppgift_3_bastun/modul2_uppgift_3_bastun/obj/x86/Debug/modul2_uppgift_3_bastun.exe
+/Users/fransengstrom/Projects/modul2_uppgift_3_bastun/modul2_uppgift_3_bastun/obj/x86/Debug/modul2_uppgift_3_bastun.pdb

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B07E4115-9847-4406-9F2A-7820ECFD2DA9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="modul2_uppgift_3_bastun/Program.cs">
+    <Files>
+      <File FileName="modul2_uppgift_3_bastun/Program.cs" Line="1" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul2_uppgift_3_bastun" expanded="True">
+            <Node name="modul2_uppgift_3_bastun" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="modul2_uppgift_3_bastun" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.modul2__uppgift__3__bastun PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
